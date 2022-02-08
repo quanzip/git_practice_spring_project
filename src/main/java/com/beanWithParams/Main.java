@@ -49,7 +49,7 @@ class HelloWorld implements IMyinterface{
 									// thì spring boot sẽ tự động lấy chúng làm tham số
 									// khởi tạo
 		myPrivateName = "quan";
-		System.out.println(myPrivateName);
+		 System.out.println(myPrivateName);;
 	}
 	
 	@Override 
